@@ -1,10 +1,9 @@
-<link href="style.css" rel="stylesheet"></link>
+<img src="assets/gifs/luffy2.gif" width="80%" height="400px">
 
-![header](assets/gifs/luffy-meydsama.gif)
 # Hi, I am Mayank 
 ### And I love Technology, Music and Anime
 
-Well not particularly in that order ![emoji](assets/emojis/robin.GIF)
+Well not particularly in that order <img src="assets/emojis/robin.GIF" width="25px">
 
 <!--
 **meliodas137/meliodas137** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

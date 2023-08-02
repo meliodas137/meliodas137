@@ -1,5 +1,7 @@
 <p align="center">
-<img src="assets/gifs/luffy.gif" width="70%" height="300px">
+  <a href="#">
+    <img src="assets/gifs/luffy.gif" width="70%" height="300px">
+  </a>
 </p>
 
 # Hi, I am Mayank

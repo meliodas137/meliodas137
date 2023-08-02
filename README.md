@@ -1,7 +1,7 @@
 <p align="center">
-  <a href="#">
+  <picture>
     <img src="assets/gifs/luffy.gif" width="70%" height="300px">
-  </a>
+  </picture>
 </p>
 
 # Hi, I am Mayank

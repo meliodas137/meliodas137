@@ -26,17 +26,17 @@
 
 Some of my favorite animes
 <p align="center">
-  <img src="assets/emojis/onepiece.GIF" width="60px">
-  <img src="assets/emojis/hisoka.PNG" width="60px">
-  <img src="assets/emojis/goku.GIF" width="60px">
-  <img src="assets/emojis/code_geass.GIF" width="60px">
+  <img src="assets/emojis/onepiece.gif" width="60px">
+  <img src="assets/emojis/hisoka.png" width="60px">
+  <img src="assets/emojis/goku.gif" width="60px">
+  <img src="assets/emojis/codegeass.gif" width="60px">
   <img src="assets/emojis/hellsing.gif" width="60px">
   <img src="assets/emojis/fmabrotherhood.gif" width="60px">
-  <img src="assets/emojis/mikasa.GIF" width="60px">
-  <img src="assets/emojis/tobi.PNG" width="60px">
-  <img src="assets/emojis/jojo.PNG" width="60px">
+  <img src="assets/emojis/mikasa.gif" width="60px">
+  <img src="assets/emojis/tobi.png" width="60px">
+  <img src="assets/emojis/jojo.png" width="60px">
   <img src="assets/emojis/gojo.gif" width="60px">
-  <img src="assets/emojis/tanjiro.GIF" width="60px">
+  <img src="assets/emojis/tanjiro.gif" width="60px">
 </p>
 
 <!--

@@ -1,4 +1,10 @@
-### Hi there 👋
+<link href="style.css" rel="stylesheet"></link>
+
+![header](assets/gifs/luffy-meydsama.gif)
+# Hi, I am Mayank 
+### And I love Technology, Music and Anime
+
+Well not particularly in that order ![emoji](assets/emojis/robin.GIF)
 
 <!--
 **meliodas137/meliodas137** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

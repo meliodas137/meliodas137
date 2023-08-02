@@ -23,20 +23,41 @@
 </p>
 
 ### And I love Technology, Music and Anime
-
-Some of my favorite animes
+My Favourite Animes of all time
 <p align="center">
-  <img src="assets/emojis/onepiece.gif" width="60px">
-  <img src="assets/emojis/hisoka.png" width="60px">
-  <img src="assets/emojis/goku.gif" width="60px">
-  <img src="assets/emojis/codegeass.gif" width="60px">
-  <img src="assets/emojis/hellsing.gif" width="60px">
-  <img src="assets/emojis/fmabrotherhood.gif" width="60px">
-  <img src="assets/emojis/mikasa.gif" width="60px">
-  <img src="assets/emojis/tobi.png" width="60px">
-  <img src="assets/emojis/jojo.png" width="60px">
-  <img src="assets/emojis/gojo.gif" width="60px">
-  <img src="assets/emojis/tanjiro.gif" width="60px">
+  <a href="https://myanimelist.net/anime/21/One_Piece">
+    <img src="assets/emojis/onepiece.gif" width="60px">
+  </a>
+  <a href="https://myanimelist.net/anime/11061/Hunter_x_Hunter_2011">
+    <img src="assets/emojis/hisoka.png" width="60px">
+  </a>
+  <a href="https://myanimelist.net/anime/21/Dragon_Ball_Z">
+    <img src="assets/emojis/goku.gif" width="60px">
+  </a>
+  <a href="https://myanimelist.net/anime/21/Code_Geass__Hangyaku_no_Lelouch">
+    <img src="assets/emojis/codegeass.gif" width="60px">
+  </a>
+  <a href="https://myanimelist.net/anime/21/Hellsing_Ultimate">
+    <img src="assets/emojis/hellsing.gif" width="60px">
+  </a>
+  <a href="https://myanimelist.net/anime/21/Fullmetal_Alchemist__Brotherhood">
+    <img src="assets/emojis/fmabrotherhood.gif" width="60px">
+  </a>
+  <a href="https://myanimelist.net/anime/21/Shingeki_no_Kyojin">
+    <img src="assets/emojis/mikasa.gif" width="60px">
+  </a>
+  <a href="https://myanimelist.net/anime/21/Naruto">
+    <img src="assets/emojis/tobi.png" width="60px">
+  </a>
+  <a href="https://myanimelist.net/anime/21/JoJo_no_Kimyou_na_Bouken_TV">
+    <img src="assets/emojis/jojo.png" width="60px">
+  </a>
+  <a href="https://myanimelist.net/anime/21/Jujutsu_Kaisen">
+    <img src="assets/emojis/gojo.gif" width="60px">
+  </a>
+  <a href="https://myanimelist.net/anime/21/Kimetsu_no_Yaiba">
+    <img src="assets/emojis/tanjiro.gif" width="60px">
+  </a>
 </p>
 
 <!--

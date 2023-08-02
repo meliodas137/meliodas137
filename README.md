@@ -23,6 +23,33 @@
 </p>
 
 ### And I love Technology, Music and Anime
+My Favourite Music Albums of all time
+<p align="center">
+  <a href>
+    <img src="assets/music/darkside.gif" width="60px">
+  </a>
+  <a href="">
+    <img src="assets/music/wall.gif" width="60px">
+  </a>
+  <a href="">
+    <img src="assets/music/crimson.gif" width="60px">
+  </a>
+  <a href="">
+    <img src="assets/music/Magnolia.jpg" width="60px">
+  </a>
+  <a href="">
+    <img src="assets/music/ram.jpg" width="60px">
+  </a>
+  <a href="">
+    <img src="assets/music/conceptual.jpg" width="60px">
+  </a>
+  <a href="">
+    <img src="assets/music/ok.png" width="60px">
+  </a>
+  <a href="">
+    <img src="assets/music/offering.jpg" width="60px">
+  </a>
+</p>
 My Favourite Animes of all time
 <p align="center">
   <a href="https://myanimelist.net/anime/21/One_Piece">

@@ -36,34 +36,84 @@ I am currently a CS graduate student at <a href="https://cims.nyu.edu/">NYU Cour
 ## And I love Technology, Music and Anime
 ### Technologies I have worked in
 <p align="center">
-  <picture>
-    <img src="https://img.shields.io/badge/C++-00599C?logo=C%2B%2B&logoColor=white">
+    <picture>
+      <img src="https://img.shields.io/badge/C++-00599C?logo=C%2B%2B&logoColor=white">
+    </picture>
+    <picture>
     <img src="https://img.shields.io/badge/c-%2300599C.svg?logo=c&logoColor=white">
-    <img src="https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E">
-    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?logo=openjdk&logoColor=white">
-    <img src="https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54">
-    <img src="https://img.shields.io/badge/scala-%23DC322F.svg?logo=scala&logoColor=white">
-    <img src="https://img.shields.io/badge/.NET-5C2D91?logo=.net&logoColor=white">
-    <img src="https://img.shields.io/badge/Electron-191970?logo=Electron&logoColor=white">
-    <img src="https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white">
-    <img src="https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB">
-    <img src="https://img.shields.io/badge/azure-%230072C6.svg?logo=microsoftazure&logoColor=white">
-    <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white">
-    <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white">
-    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
-    <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?logo=visual-studio&logoColor=white">
-    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white">
-    <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?logo=PyTorch&logoColor=white">
-    <img src="https://img.shields.io/badge/numpy-%23013243.svg?logo=numpy&logoColor=white">
-    <img src="https://img.shields.io/badge/pandas-%23150458.svg?logo=pandas&logoColor=white">
-    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white">
-    <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?logo=kubernetes&logoColor=white">
-    <img src="https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?logo=apache-tomcat&logoColor=black">
-    <img src="https://img.shields.io/badge/postgres-%23316192.svg?logo=postgresql&logoColor=white">
-    <img src="https://img.shields.io/badge/mysql-%2300f.svg?logo=mysql&logoColor=white">
-    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white">
-    <img src="https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white">
-  </picture>
+        </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E">
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/java-%23ED8B00.svg?logo=openjdk&logoColor=white">
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54">
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/scala-%23DC322F.svg?logo=scala&logoColor=white">
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/.NET-5C2D91?logo=.net&logoColor=white">
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/Electron-191970?logo=Electron&logoColor=white">
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white">
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB">
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/azure-%230072C6.svg?logo=microsoftazure&logoColor=white">
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white">
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white">
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?logo=visual-studio&logoColor=white">
+        </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white">
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?logo=PyTorch&logoColor=white">
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/numpy-%23013243.svg?logo=numpy&logoColor=white">
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/pandas-%23150458.svg?logo=pandas&logoColor=white">
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white">
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?logo=kubernetes&logoColor=white">
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?logo=apache-tomcat&logoColor=black">
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/postgres-%23316192.svg?logo=postgresql&logoColor=white">
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/mysql-%2300f.svg?logo=mysql&logoColor=white">
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white">
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white">
+    </picture>
 </p>
 
 ### My favourite albums of all time

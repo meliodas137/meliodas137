@@ -1,6 +1,6 @@
 <p align="center">
   <picture>
-    <img src="assets/gifs/luffy.gif" width="70%" height="250px">
+    <img src="assets/gifs/luffy.gif" width="80%" height="250px">
   </picture>
 </p>
 

@@ -4,7 +4,7 @@
   </picture>
 </p>
 
-# Hi, I am Mayank
+# Hi, I am Mayank 👋
 <p align="left">
   <a href="https://github.com/meliodas137">
     <img src="https://komarev.com/ghpvc/?username=meliodas137" alt="page views">
@@ -21,26 +21,61 @@
   <a href="https://www.instagram.com/meliodas_137/">
     <img alt="Insta" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white">
   </a>
+  <a href="mailto:mayankgt1043@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white">
+  </a>
 <!--   <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">
     <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
   </a> -->
 </p>
 
 <p>
-I am currently a CS graduate student at <a href="https://cims.nyu.edu/">NYU Courant</a> and lives in New Jersey. Professionally pursued Software Development at <a href="https://www.adobe.com/">Adobe</a> for 2.5 years prior to coming to US. Passionate about designing and building large scale complex systems. Currently building an extension for policy control in <a href="https://duckdb.org/">DuckDB</a> Database System.
+I am currently a CS graduate student at <a href="https://cims.nyu.edu/">NYU Courant</a> and lives in New Jersey. Professionally pursued Software Development at <a href="https://www.adobe.com/">Adobe</a> for 2.5 years prior to coming to US. Passionate about designing and building large scale complex systems. Currently building an extension for policy control in <a href="https://duckdb.org/">DuckDB</a> Database System. Let's connect on <a href="discordapp.com/users/991229410525073428">Discord 💬</a>
 </p>
 
-### And I love Technology, Music and Anime
+## And I love Technology, Music and Anime
+### Technologies I have worked in
+<p align="center">
+  <picture>
+    <img src="https://img.shields.io/badge/C++-00599C?logo=C%2B%2B&logoColor=white">
+    <img src="https://img.shields.io/badge/c-%2300599C.svg?logo=c&logoColor=white">
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E">
+    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?logo=openjdk&logoColor=white">
+    <img src="https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54">
+    <img src="https://img.shields.io/badge/scala-%23DC322F.svg?logo=scala&logoColor=white">
+    <img src="https://img.shields.io/badge/.NET-5C2D91?logo=.net&logoColor=white">
+    <img src="https://img.shields.io/badge/Electron-191970?logo=Electron&logoColor=white">
+    <img src="https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white">
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB">
+    <img src="https://img.shields.io/badge/azure-%230072C6.svg?logo=microsoftazure&logoColor=white">
+    <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white">
+    <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white">
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
+    <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?logo=visual-studio&logoColor=white">
+    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white">
+    <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?logo=PyTorch&logoColor=white">
+    <img src="https://img.shields.io/badge/numpy-%23013243.svg?logo=numpy&logoColor=white">
+    <img src="https://img.shields.io/badge/pandas-%23150458.svg?logo=pandas&logoColor=white">
+    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white">
+    <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?logo=kubernetes&logoColor=white">
+    <img src="https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?logo=apache-tomcat&logoColor=black">
+    <img src="https://img.shields.io/badge/postgres-%23316192.svg?logo=postgresql&logoColor=white">
+    <img src="https://img.shields.io/badge/mysql-%2300f.svg?logo=mysql&logoColor=white">
+    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white">
+    <img src="https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white">
+  </picture>
+</p>
 
-Technologies I have worked in
-
-My favourite albums of all time
+### My favourite albums of all time
 <p align="center">
   <a href="https://open.spotify.com/album/5Dbax7G8SWrP9xyzkOvy2F?si=JmcnVJUOQ2-65RlDZS_ISw">
     <img src="assets/music/wall.gif" width="60px">
   </a>
   <a href="https://open.spotify.com/album/4LH4d3cOWNNsVw41Gqt2kv?si=wgtValtfRSK2iQ59qg11Gg">
     <img src="assets/music/darkside.gif" width="60px">
+  </a>
+  <a href="https://open.spotify.com/album/0bCAjiUamIFqKJsekOYuRw?si=jp4bhHHBTMaGBkkWPgOt7Q">
+    <img src="assets/music/wish.gif" width="60px">
   </a>
   <a href="https://open.spotify.com/album/6tVg2Wl9hVKMpHYcAl2V2M?si=XD90q5SsQsK3hVKPEfGs1w">
     <img src="assets/music/crimson.gif" width="60px">
@@ -49,19 +84,29 @@ My favourite albums of all time
     <img src="assets/music/Magnolia.jpg" width="60px">
   </a>
   <a href="https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa?si=hEJKGltsSoam_Ltfp8gKNg">
-    <img src="assets/music/ram.jpg" width="60px">
+    <img src="assets/music/ram.gif" width="60px">
+  </a>
+  <a href="https://open.spotify.com/album/0vxg8oJKDu3i0bXQu7vEpi?si=FV3EeIqSR4K9zk5-Lb1QHA">
+    <img src="assets/music/blackstar.png" width="60px">
+  </a>
+  <a href="https://open.spotify.com/album/48D1hRORqJq52qsnUYZX56?si=miFZqZOSQNe-MDwvycGkZA">
+    <img src="assets/music/ziggy.gif" width="60px">
+  </a>
+  <a href="https://open.spotify.com/album/0bUTHlWbkSQysoM3VsWldT?si=JWva3gSxRZaiTS4aBPG98w">
+    <img src="assets/music/demon.gif" width="60px">
   </a>
   <a href="https://open.spotify.com/album/4F4a8lEEAfJY2epVAYMFla?si=exh8UVMfTEuLQA7kstDU6g">
     <img src="assets/music/conceptual.jpg" width="60px">
   </a>
   <a href="https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE?si=f2WFqooUR6aotPYGBfjQlA">
-    <img src="assets/music/ok.png" width="60px">
+    <img src="assets/music/ok.gif" width="60px">
   </a>
-  <a href="https://open.spotify.com/album/2keHjWDRlQYnrTkm7ShyUc?si=81oiLZLeSFeA6Pl7nFtDmw">
+  <!-- <a href="https://open.spotify.com/album/2keHjWDRlQYnrTkm7ShyUc?si=81oiLZLeSFeA6Pl7nFtDmw">
     <img src="assets/music/offering.jpg" width="60px">
-  </a>
+  </a> -->
 </p>
-My favourite animes of all time
+
+### My favourite animes of all time
 <p align="center">
   <a href="https://myanimelist.net/anime/21/One_Piece">
     <img src="assets/emojis/onepiece.gif" width="60px">

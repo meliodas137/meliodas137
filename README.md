@@ -15,7 +15,7 @@
   <a href="https://www.linkedin.com/in/mayankgt1043/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin">
   </a>
-  <a href="discordapp.com/users/991229410525073428">
+  <a href="https://www.discordapp.com/users/991229410525073428">
     <img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white">
   </a>
   <a href="https://www.instagram.com/meliodas_137/">

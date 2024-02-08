@@ -40,8 +40,11 @@ I am currently a CS graduate student at <a href="https://cims.nyu.edu/">NYU Cour
       <img src="https://img.shields.io/badge/C++-00599C?logo=C%2B%2B&logoColor=white">
     </picture>
     <picture>
-    <img src="https://img.shields.io/badge/c-%2300599C.svg?logo=c&logoColor=white">
-        </picture>
+      <img src="https://img.shields.io/badge/c-%2300599C.svg?logo=c&logoColor=white">
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/OCaml-%23E98407.svg?logo=ocaml&logoColor=white">
+    </picture>
     <picture>
       <img src="https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E">
     </picture>
@@ -113,6 +116,9 @@ I am currently a CS graduate student at <a href="https://cims.nyu.edu/">NYU Cour
     </picture>
     <picture>
       <img src="https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white">
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/elixir-%234B275F.svg?logo=elixir&logoColor=white">
     </picture>
 </p>
 

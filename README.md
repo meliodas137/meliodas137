@@ -30,7 +30,7 @@
 </p>
 
 <p>
-I am currently a CS graduate student at <a href="https://cims.nyu.edu/">NYU Courant</a> and lives in New Jersey. Professionally pursued Software Development at <a href="https://www.adobe.com/">Adobe</a> for 2.5 years prior to coming to US. Passionate about designing and building large scale complex systems. Currently building an extension for policy control in <a href="https://duckdb.org/">DuckDB</a> Database System. Let's connect on <a href="discordapp.com/users/991229410525073428">Discord 💬</a>
+Currently a Software Developer II at <a href="https://www.oracle.com/">Oracle</a> in Bay Area. My team develops and maintains <a href="https://www.oracle.com/integration/goldengate/">Oracle GoldenGate</a>. Graduated from <a href="https://cims.nyu.edu/">NYU Courant</a> in Computer Science and worked as a Software Developer at <a href="https://www.adobe.com/">Adobe</a> for 2.5 years prior to coming to US. Passionate about designing and building large scale complex systems. Let's connect on <a href="discordapp.com/users/991229410525073428">Discord 💬</a>
 </p>
 
 ## And I love Technology, Music and Anime
